@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/6603014620045 S.3/Week6_assign3"
+		},
+		{
+			"name": "Assign3_Week6",
+			"path": "../../Assign3_Week6"
+		},
+		{
+			"name": "ESP32_MQTT_LINE",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
